@@ -1,3 +1,5 @@
 Frutas
 
 manzana
+
+fresa
